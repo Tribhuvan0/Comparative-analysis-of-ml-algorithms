@@ -31,11 +31,11 @@ This repository contains the notebook associated with the task performed
 
 | Algorithm | MAE(Mean Absolute Error) | MSE(Mean Squared Error) | RMSE(Root Mean Squared Error) |
 | --------------- | --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 | Row 3 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 | Row 3 Column 3 |
+| Linear regression | Row 1 Column 2 | Row 1 Column 3 | Row 1 Column 3 |
+| Support vector machine | Row 2 Column 2 | Row 2 Column 3 | Row 2 Column 3 |
+| Random forest regressor | Row 3 Column 2 | Row 3 Column 3 | Row 3 Column 3 |
+| Random forest regressor (random search cv | Row 2 Column 2 | Row 2 Column 3 | Row 2 Column 3 |
+| Random forest regressor (grid search cv) | Row 3 Column 2 | Row 3 Column 3 | Row 3 Column 3 |
 
 ### Future Enhancements
 * We can try to work again with svm, but with normalised values of data
