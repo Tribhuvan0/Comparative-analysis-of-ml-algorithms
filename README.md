@@ -19,8 +19,8 @@ This repository contains the notebook associated with the task performed
 * Also included the reasons for the prformance of different models
 
 ### Machine learning models used
-*| | Algorithm  | MAE(Mean Absolute Error)    | MSE(Mean Squared Error)  | RMSE(Root Mean Squared Error)   |
-|---:|:-------------|:-----------|:------|:------|
+| Algorithm  | MAE(Mean Absolute Error)    | MSE(Mean Squared Error)  | RMSE(Root Mean Squared Error)   |
+|---|-------------|-----------|------|------|
 | 1 | Linear regression  | 5.347       | 43.279   | 6.579    |
 | 2 | Support vector machine  | 5.071    | 45.617   | 6.753     |
 | 3 | Random forest regressor | 4.796    | 40.973   | 6.401    |
