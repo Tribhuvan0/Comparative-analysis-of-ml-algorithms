@@ -1,8 +1,8 @@
 ### House Price Prediction using different machine learning models
 
-### Author: [Tribhuvan Mishra][https://www.linkedin.com/in/tribhuvan0/]
+### Author: [Tribhuvan Mishra](https://www.linkedin.com/in/tribhuvan0/)
 
-LilHomie is a rapid prototyping project that aims to generate housing appraisals to determine values of properties in the New York Tri-state Area. 
+This project aims to predict the house price by using given set of variables and also to find which algorithm gives best performance
 
 This repository contains the notebook associated with the task performed
 * Notebook has well written code along with markdowns, where additional information is given.
