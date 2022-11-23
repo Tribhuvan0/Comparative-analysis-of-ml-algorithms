@@ -31,10 +31,10 @@ This repository contains the notebook associated with the task performed
 
 | Algorithm | MAE(Mean Absolute Error) | MSE(Mean Squared Error) | RMSE(Root Mean Squared Error) |
 | --------------- | --------------- | --------------- | --------------- |
-| Linear regression | Row 1 Column 2 | Row 1 Column 3 | Row 1 Column 3 |
-| Support vector machine | Row 2 Column 2 | Row 2 Column 3 | Row 2 Column 3 |
-| Random forest regressor | Row 3 Column 2 | Row 3 Column 3 | Row 3 Column 3 |
-| Random forest regressor (random search cv | Row 2 Column 2 | Row 2 Column 3 | Row 2 Column 3 |
+| Linear regression | 5.347 | 43.279 | 6.579 |
+| Support vector machine | 5.071 | 45.617 | 6.753 |
+| Random forest regressor | 4.796 | 40.973 | 6.401 |
+| Random forest regressor (random search cv | 3.964 | 25.677 | 5.067 |
 | Random forest regressor (grid search cv) | Row 3 Column 2 | Row 3 Column 3 | Row 3 Column 3 |
 
 ### Future Enhancements
