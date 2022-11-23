@@ -18,24 +18,15 @@ This repository contains the notebook associated with the task performed
 * Created visualisation of performance of different models
 * Also included the reasons for the prformance of different models
 
-### Machine learning models used
+### Machine learning models used and performance matrix
 
-|  | MAE(Mean Absolute Error) | MSE(Mean Squared Error) | RMSE(Root Mean Squared Error) |
-|---|-------------|-----------|------|------|
-| 1 | Linear regression | 5.347 | 43.279 | 6.579 |
-| 2 | Support vector machine  | 5.071 | 45.617 | 6.753 |
-| 3 | Random forest regressor | 4.796 | 40.973 | 6.401 |
-| 4 | Random forest regressor (random search cv) | 3.964 | 25.677 | 5.067 |
-| 5 | Random forest regressor (grid search cv) | 4.669 | 37.328 | 6.109 |
-
-
-| Algorithm | MAE(Mean Absolute Error) | MSE(Mean Squared Error) | RMSE(Root Mean Squared Error) |
+| Algorithm used | MAE(Mean Absolute Error) | MSE(Mean Squared Error) | RMSE(Root Mean Squared Error) |
 | --------------- | --------------- | --------------- | --------------- |
 | Linear regression | 5.347 | 43.279 | 6.579 |
 | Support vector machine | 5.071 | 45.617 | 6.753 |
 | Random forest regressor | 4.796 | 40.973 | 6.401 |
 | Random forest regressor (random search cv | 3.964 | 25.677 | 5.067 |
-| Random forest regressor (grid search cv) | Row 3 Column 2 | Row 3 Column 3 | Row 3 Column 3 |
+| Random forest regressor (grid search cv) | 4.669 | 37.328 | 6.109 |
 
 ### Future Enhancements
 * We can try to work again with svm, but with normalised values of data
