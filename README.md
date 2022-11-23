@@ -20,7 +20,7 @@ This repository contains the notebook associated with the task performed
 
 ### Machine learning models used
 
-| Algorithm | MAE(Mean Absolute Error) | MSE(Mean Squared Error) | RMSE(Root Mean Squared Error) |
+|  | MAE(Mean Absolute Error) | MSE(Mean Squared Error) | RMSE(Root Mean Squared Error) |
 |---|-------------|-----------|------|------|
 | 1 | Linear regression | 5.347 | 43.279 | 6.579 |
 | 2 | Support vector machine  | 5.071 | 45.617 | 6.753 |
@@ -29,8 +29,8 @@ This repository contains the notebook associated with the task performed
 | 5 | Random forest regressor (grid search cv) | 4.669 | 37.328 | 6.109 |
 
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
+| Algorithm | MAE(Mean Absolute Error) | MSE(Mean Squared Error) | RMSE(Root Mean Squared Error) |
+| --- | --- | --- |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
 
