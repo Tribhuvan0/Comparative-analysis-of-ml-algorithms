@@ -33,7 +33,7 @@ This repository contains the notebook associated with the task performed
 * It can be also deployed on web
 
 ### References
-* https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7047&context=utk_gradthes#:~:text=Random%20search%20can%20work%20better,better%20than%20both%20of%20them.
+*https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7047&context=utk_gradthes#:~:text=Random%20search%20can%20work%20better,better%20than%20both%20of%20them.
 *https://www.researchgate.net/publication/274638232_Performance_of_Random_Forest_and_SVM_in_Face_Recognition#:~:text=The%20SVM%20achieved%20accuracy%20of,of%20SVM%2C%20RF%20and%20classification.
 
 
