@@ -14,7 +14,7 @@ This repository contains the notebook associated with the task performed
 ### Steps taken
 * Data visualization and exploratory data analysis
 * Using different models to this regression problem
-* Found the best algoritm among the algorithms applied
+* Found the best model among the models used
 * Created visualisation of performance of different models
 * Also included the reasons for the prformance of different models
 
@@ -31,6 +31,11 @@ This repository contains the notebook associated with the task performed
 ### Future Enhancements
 * We can try to work again with svm, but with normalised values of data
 * It can be also deployed on web
+
+### References
+* https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7047&context=utk_gradthes#:~:text=Random%20search%20can%20work%20better,better%20than%20both%20of%20them.
+*https://www.researchgate.net/publication/274638232_Performance_of_Random_Forest_and_SVM_in_Face_Recognition#:~:text=The%20SVM%20achieved%20accuracy%20of,of%20SVM%2C%20RF%20and%20classification.
+
 
 
 ### Questions?
