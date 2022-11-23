@@ -30,9 +30,12 @@ This repository contains the notebook associated with the task performed
 
 
 | Algorithm | MAE(Mean Absolute Error) | MSE(Mean Squared Error) | RMSE(Root Mean Squared Error) |
-| --- | --- | --- |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| --------------- | --------------- | --------------- | --------------- |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 | Row 3 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 | Row 3 Column 3 |
 
 ### Future Enhancements
 * We can try to work again with svm, but with normalised values of data
