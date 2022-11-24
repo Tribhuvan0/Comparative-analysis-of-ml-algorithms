@@ -30,7 +30,7 @@ This repository contains the notebook associated with the task performed
 
 ### Future Enhancements
 * We can try to work again with svm, but with normalised values of data
-* It can be also deployed on web
+* It can be also deployed on web application
 
 ### References
 *https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7047&context=utk_gradthes#:~:text=Random%20search%20can%20work%20better,better%20than%20both%20of%20them.
