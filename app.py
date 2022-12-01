@@ -4,7 +4,7 @@ import sklearn
 import pandas as pd
 import numpy as np
 from PIL import Image
-model = pickle.load(open('model.sav', 'rb'))
+model = pickle.load(open('model1.sav', 'rb'))
 
 st.title('House price Prediction')
 st.sidebar.header('House Data')
@@ -23,8 +23,8 @@ def user_report():
       'House Age':House_Age,
       'Distance from nearest Metro station (km)':Nearest_Metro,
       'Number of convenience stores':Convenience_stores,
-      'latitude':Latitude,
-      'longitude':Longitude,
+      #'latitude':Latitude,
+      #'longitude':Longitude,
   }
   report_data = pd.DataFrame(user_report_data, index=[0])
   return report_data
