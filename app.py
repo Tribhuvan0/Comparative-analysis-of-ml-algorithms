@@ -23,8 +23,8 @@ def user_report():
       'House Age':House_Age,
       'Distance from nearest Metro station (km)':Nearest_Metro,
       'Number of convenience stores':Convenience_stores,
-      #'latitude':Latitude,
-      #'longitude':Longitude,
+      'latitude':Latitude,
+      'longitude':Longitude,
   }
   report_data = pd.DataFrame(user_report_data, index=[0])
   return report_data
