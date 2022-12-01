@@ -4,7 +4,7 @@ import sklearn
 import pandas as pd
 import numpy as np
 from PIL import Image
-model = pickle.load(open('model3.sav', 'rb'))
+model = pickle.load(open('model.sav', 'rb'))
 
 st.title('House price Prediction')
 st.sidebar.header('House Data')
