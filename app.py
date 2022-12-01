@@ -35,4 +35,4 @@ st.write(user_data)
 
 Price = model.predict(user_data)
 st.subheader('House Price Per Unit Area')
-st.subheader('$'+str(np.round(Price[0], 2)))
+st.subheader('$'+str(np.round(abs(Price[0]), 2)))
