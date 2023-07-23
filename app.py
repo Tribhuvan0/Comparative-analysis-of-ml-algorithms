@@ -5,10 +5,9 @@ import pandas as pd
 import numpy as np
 from PIL import Image
 option = st.selectbox(
-        'How would you like to be contacted?',
-        ('model.sav', 'model1.sav', 'model2.sav'))
+        'Which Model to Use?',
+        ('Multiple Linear Regression.sav', 'Support Vector Machine.sav', 'Random Forest Regressor.sav'))
 
-st.write('You selected:', option)
 model = pickle.load(open(option, 'rb'))
 
 st.title('House price Prediction')
