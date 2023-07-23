@@ -6,7 +6,7 @@ import numpy as np
 from PIL import Image
 option = st.selectbox(
         'How would you like to be contacted?',
-        ('model.sav', 'model1.sav', 'model2.sav', 'model3.sav'))
+        ('model.sav', 'model1.sav', 'model2.sav'))
 
 st.write('You selected:', option)
 model = pickle.load(open(option, 'rb'))
