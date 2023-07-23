@@ -4,7 +4,12 @@ import sklearn
 import pandas as pd
 import numpy as np
 from PIL import Image
-model = pickle.load(open('model.sav', 'rb'))
+option = st.selectbox(
+        'How would you like to be contacted?',
+        ('model.sav', 'model1.sav', 'model2.sav', 'model3.sav'))
+
+st.write('You selected:', option)
+model = pickle.load(open(option, 'rb'))
 
 st.title('House price Prediction')
 st.sidebar.header('House Data')
